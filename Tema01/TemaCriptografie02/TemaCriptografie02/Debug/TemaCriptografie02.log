@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema01\TemaCriptografie02\TemaCriptografie02\CriptTools.h(229,21): warning C4018: '<': signed/unsigned mismatch
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema01\TemaCriptografie02\TemaCriptografie02\CriptTools.h(975,21): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema01\TemaCriptografie02\TemaCriptografie02\CriptTools.h(1115,9): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema01\TemaCriptografie02\TemaCriptografie02\Source.cpp(43,7): warning C4101: 'c': unreferenced local variable
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema01\TemaCriptografie02\TemaCriptografie02\Source.cpp(69,21): warning C4018: '<': signed/unsigned mismatch
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema01\TemaCriptografie02\TemaCriptografie02\Source.cpp(119,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TemaCriptografie02.vcxproj -> C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema01\TemaCriptografie02\Debug\TemaCriptografie02.exe

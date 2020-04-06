@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\TemaCriptografie03\TemaCriptografie03\Source.cpp(125,20): warning C4018: '<': signed/unsigned mismatch
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\TemaCriptografie03\TemaCriptografie03\Source.cpp(162,20): warning C4018: '<': signed/unsigned mismatch
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\TemaCriptografie03\TemaCriptografie03\Source.cpp(176,20): warning C4018: '<': signed/unsigned mismatch
+  TemaCriptografie03.vcxproj -> C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\TemaCriptografie03\Debug\TemaCriptografie03.exe
