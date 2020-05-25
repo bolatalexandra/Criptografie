@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema02\TemaCriptografie01\TemaCriptografie01\CriptTools.h(1032,21): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema02\TemaCriptografie01\TemaCriptografie01\CriptTools.h(1077,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema02\TemaCriptografie01\TemaCriptografie01\CriptTools.h(1222,9): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema02\TemaCriptografie01\TemaCriptografie01\Source.cpp(99): warning C4715: 'Citire': not all control paths return a value
+  TemaCriptografie01.vcxproj -> C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema02\TemaCriptografie01\x64\Debug\TemaCriptografie01.exe

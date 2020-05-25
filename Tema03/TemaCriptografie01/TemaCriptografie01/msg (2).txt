@@ -1,0 +1,13 @@
+Cheia publica pentru RSA (n=33227, e=8093)
+
+La fragmentarea cheii s-a folosit numarul prim p=4493. Fragmentele criptate sunt:
+
+     12157 - 23111
+     16735 - 18758
+     32194 - 8290
+     16206 - 23159
+     128 - 32802
+     2802 - 16241
+     31765 - 16300
+     14631 - 29554
+     9145 - 19216

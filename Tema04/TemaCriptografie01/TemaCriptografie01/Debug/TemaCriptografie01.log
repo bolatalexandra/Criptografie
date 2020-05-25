@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema04\TemaCriptografie01\TemaCriptografie01\CriptTools.h(231,21): warning C4018: '<': signed/unsigned mismatch
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema04\TemaCriptografie01\TemaCriptografie01\CriptTools.h(1091,21): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema04\TemaCriptografie01\TemaCriptografie01\CriptTools.h(1139,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema04\TemaCriptografie01\TemaCriptografie01\CriptTools.h(1286,9): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema04\TemaCriptografie01\TemaCriptografie01\Source.cpp(11,18): error C3861: 'Sqrt': identifier not found
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema04\TemaCriptografie01\TemaCriptografie01\Source.cpp(11,29): error C3861: 'Sqrt': identifier not found
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema04\TemaCriptografie01\TemaCriptografie01\Source.cpp(11,40): error C3861: 'Sqrt': identifier not found
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema04\TemaCriptografie01\TemaCriptografie01\Source.cpp(11,9): error C3861: 'da_prim2': identifier not found
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema04\TemaCriptografie01\TemaCriptografie01\Source.cpp(12,18): error C3861: 'Sqrt': identifier not found
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema04\TemaCriptografie01\TemaCriptografie01\Source.cpp(12,29): error C3861: 'Sqrt': identifier not found
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema04\TemaCriptografie01\TemaCriptografie01\Source.cpp(12,9): error C3861: 'da_prim2': identifier not found
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema04\TemaCriptografie01\TemaCriptografie01\Source.cpp(37,28): error C3861: 'da_caracter2': identifier not found
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema04\TemaCriptografie01\TemaCriptografie01\Source.cpp(82,27): error C3861: 'da_caracter2': identifier not found
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema04\TemaCriptografie01\TemaCriptografie01\Source.cpp(115,44): error C2664: 'char da_caracter(int)': cannot convert argument 1 from 'BigInt<1024>' to 'int'
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema04\TemaCriptografie01\TemaCriptografie01\Source.cpp(115,41): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema04\TemaCriptografie01\TemaCriptografie01\CriptTools.h(196,6): message : see declaration of 'da_caracter'

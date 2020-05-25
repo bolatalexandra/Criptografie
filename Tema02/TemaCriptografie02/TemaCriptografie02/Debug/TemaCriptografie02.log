@@ -1,0 +1,23 @@
+﻿  Source.cpp
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema02\TemaCriptografie02\TemaCriptografie02\CriptTools.h(231,21): warning C4018: '<': signed/unsigned mismatch
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema02\TemaCriptografie02\TemaCriptografie02\CriptTools.h(1032,21): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema02\TemaCriptografie02\TemaCriptografie02\CriptTools.h(1077,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema02\TemaCriptografie02\TemaCriptografie02\CriptTools.h(1222,9): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema02\TemaCriptografie02\TemaCriptografie02\Source.cpp(113,29): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema02\TemaCriptografie02\TemaCriptografie02\Source.cpp(114,29): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema02\TemaCriptografie02\TemaCriptografie02\CriptTools.h(42,23): warning C4244: 'return': conversion from 'MyInt' to 'int', possible loss of data
+          with
+          [
+              MyInt=__int64
+          ]
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema02\TemaCriptografie02\TemaCriptografie02\Source.cpp(49): message : see reference to function template instantiation 'int modulo<MyInt>(MyInt,MyInt)' being compiled
+          with
+          [
+              MyInt=__int64
+          ]
+C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema02\TemaCriptografie02\TemaCriptografie02\CriptTools.h(43,9): warning C4244: 'return': conversion from 'MyInt' to 'int', possible loss of data
+          with
+          [
+              MyInt=__int64
+          ]
+  TemaCriptografie02.vcxproj -> C:\WORK\Facultate\Anul III\Semestrul VI\Criptografie\Tema\Criptografie\Tema02\TemaCriptografie02\Debug\TemaCriptografie02.exe
