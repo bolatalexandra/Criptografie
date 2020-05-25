@@ -8,7 +8,7 @@ using namespace std;
 /*
 pasi:
 o functie pentru a afla toate cheile posibile:
--parcurgem numerele de la 5000 la 5999(sau cum ai tu cheile) verificam care se termina cu 1 si factorizam acel n pentru a afla p si q
+-parcurgem numerele de la 5000 la 5999 verificam care se termina cu 1 si factorizam acel n pentru a afla p si q
 -avand p si q aflam phi
 -nr. cifrelor lui p trebuie sa fie egal sau aproxiumativ egal cu cel al lui q
 -de la 3 pana la phi(n)-1 alegem e
